@@ -1,0 +1,14 @@
+:root {
+    --main-color:        #FF0000;
+    --second-color:      #000000;
+    --extra-color:       #950101;
+    --alternative-color: #3D0000;
+    --fonte:               'Josefin Sans', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--fonte);
+}
